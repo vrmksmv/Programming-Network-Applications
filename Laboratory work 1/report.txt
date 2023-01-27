@@ -1,0 +1,76 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            0:0                    LISTENING
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0:0                    LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:5040           0:0                    LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:13279          0:0                    LISTENING
+ [uTorrent.exe]
+  TCP    0.0.0.0:23130          0:0                    LISTENING
+ [Wacom_Tablet.exe]
+  TCP    0.0.0.0:23133          0:0                    LISTENING
+ [Wacom_Tablet.exe]
+  TCP    0.0.0.0:49664          0:0                    LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0:0                    LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          0:0                    LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0:0                    LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0:0                    LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49671          0:0                    LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:1434         0:0                    LISTENING
+ [sqlservr.exe]
+  TCP    127.0.0.1:6463         0:0                    LISTENING
+ [Discord.exe]
+  TCP    127.0.0.1:49946        0:0                    LISTENING
+ [AdskLicensingService.exe]
+  TCP    192.168.0.100:139      0:0                    LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.0.100:49416    20.199.120.85:https    ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.0.100:49937    wq-in-f188:https       ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:49938    149.154.167.99:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:49939    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:49942    mc:https               ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:49947    yabs:https             ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:49949    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:50777    a23-64-12-49:https     CLOSE_WAIT
+ [SearchApp.exe]
+  TCP    192.168.0.100:50779    185.203.152.9:https    CLOSE_WAIT
+ [SearchApp.exe]
+  TCP    192.168.0.100:51002    a-0001:https           ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.0.100:51093    net201-87:35638        TIME_WAIT
+  TCP    192.168.0.100:51097    37.1.14.57:29429       TIME_WAIT
+  TCP    192.168.0.100:51101    broadband-5-228-48-67:6881  TIME_WAIT
+  TCP    192.168.0.100:51103    5.175.104.205:46191    TIME_WAIT
+  TCP    192.168.0.100:51104    5x165x151x213:6881     TIME_WAIT
+  TCP    192.168.0.100:51119    dynamicip-188-232-28-207:11783  SYN_SENT
+ [uTorrent.exe]
+  TCP    192.168.0.100:51120    149.154.167.99:https   ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.0.100:51125    176.120.103.168:21790  SYN_SENT
+ [uTorrent.exe]
+  TCP    192.168.0.100:51126    218:49347              SYN_SENT
+ [uTorrent.exe]
+  TCP    192.168.0.100:51127    54:50470               SYN_SENT
+ [uTorrent.exe]
